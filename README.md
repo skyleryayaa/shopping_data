@@ -1,2 +1,3 @@
-# shopping_data
-a simple python practice
+# Shopping Data
+## Section I 
+## Section II 
