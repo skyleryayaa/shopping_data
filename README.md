@@ -5,7 +5,6 @@
  - 1
  - 2
 
-`python 
+`Python 
 print("He")
-
 `
